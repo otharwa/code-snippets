@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[    /**
+     * $1Comment
+     *
+     * @param string|mixed $2variable Description
+     * @return string|mixed $3Description
+     **/$0]]></content>
+    <tabTrigger>Comment</tabTrigger>
+    <scope>text.php,source.php</scope>
+    <description>CommentDocumentation</description>
+</snippet>
